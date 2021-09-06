@@ -6,6 +6,6 @@ export class EventBus {
 
 }
 export const EventEnums = {
-  CHANNEL_UPDATE : 'CHANNEL_UPDATE_EVENT',
+  CHANNEL_UPDATE : 'CHANNEL_UPDATE',
   NEW_FOLLOWER : 'NEW_FOLLOWER'
 }
